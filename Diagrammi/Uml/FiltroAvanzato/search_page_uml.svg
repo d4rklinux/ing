@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1171px" preserveAspectRatio="none" style="width:704px;height:1171px;background:#FFFFFF;" version="1.1" viewBox="0 0 704 1171" width="704px" zoomAndPan="magnify"><defs/><g><!--MD5=[fdee5e53b74f648132cf050583b4a1ad]
+class SearchPage--><g id="elem_SearchPage"><rect codeLine="2" fill="#F1F1F1" height="48" id="SearchPage" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="115" x="305.5" y="7"/><ellipse cx="320.5" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M323.4688,28.6406 Q322.8906,28.9375 322.25,29.0781 Q321.6094,29.2344 320.9063,29.2344 Q318.4063,29.2344 317.0781,27.5938 Q315.7656,25.9375 315.7656,22.8125 Q315.7656,19.6875 317.0781,18.0313 Q318.4063,16.375 320.9063,16.375 Q321.6094,16.375 322.25,16.5313 Q322.9063,16.6875 323.4688,16.9844 L323.4688,19.7031 Q322.8438,19.125 322.25,18.8594 Q321.6563,18.5781 321.0313,18.5781 Q319.6875,18.5781 319,19.6563 Q318.3125,20.7188 318.3125,22.8125 Q318.3125,24.9063 319,25.9844 Q319.6875,27.0469 321.0313,27.0469 Q321.6563,27.0469 322.25,26.7813 Q322.8438,26.5 323.4688,25.9219 L323.4688,28.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="334.5" y="27.8467">SearchPage</text><line style="stroke:#181818;stroke-width:0.5;" x1="306.5" x2="419.5" y1="39" y2="39"/><line style="stroke:#181818;stroke-width:0.5;" x1="306.5" x2="419.5" y1="47" y2="47"/></g><!--MD5=[6a12b1b669d23a209da69a187e7082a5]
+class SearchPageState--><g id="elem_SearchPageState"><rect codeLine="7" fill="#F1F1F1" height="585.7969" id="SearchPageState" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="362" x="182" y="116"/><ellipse cx="299.25" cy="132" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M302.2188,137.6406 Q301.6406,137.9375 301,138.0781 Q300.3594,138.2344 299.6563,138.2344 Q297.1563,138.2344 295.8281,136.5938 Q294.5156,134.9375 294.5156,131.8125 Q294.5156,128.6875 295.8281,127.0313 Q297.1563,125.375 299.6563,125.375 Q300.3594,125.375 301,125.5313 Q301.6563,125.6875 302.2188,125.9844 L302.2188,128.7031 Q301.5938,128.125 301,127.8594 Q300.4063,127.5781 299.7813,127.5781 Q298.4375,127.5781 297.75,128.6563 Q297.0625,129.7188 297.0625,131.8125 Q297.0625,133.9063 297.75,134.9844 Q298.4375,136.0469 299.7813,136.0469 Q300.4063,136.0469 301,135.7813 Q301.5938,135.5 302.2188,134.9219 L302.2188,137.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="319.75" y="136.8467">SearchPageState</text><line style="stroke:#181818;stroke-width:0.5;" x1="183" x2="543" y1="148" y2="148"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="158.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="202" y="164.9951">List _results</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="174.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="202" y="181.292">List _originalResults</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="191.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="202" y="197.5889">String _sortOrder</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="207.5391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="238" x="202" y="213.8857">String _selectedTipologiaContratto</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="223.8359"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="202" y="230.1826">String _selectedSuperficie</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="240.1328"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="189" x="202" y="246.4795">String _selectedParcheggio</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="256.4297"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="159" x="202" y="262.7764">String _selectedStanze</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="272.7266"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="231" x="202" y="279.0732">String _selectedClasseEnergetica</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="289.0234"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="202" y="295.3701">String _selectedBagno</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="305.3203"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="202" y="311.667">String _selectedPiano</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="321.6172"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="198" x="202" y="327.9639">bool _selectedClimatizzatore</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="337.9141"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="202" y="344.2607">bool _selectedBalcone</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="354.2109"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="202" y="360.5576">bool _selectPortineria</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="370.5078"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="202" y="376.8545">bool _selectGiardino</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="386.8047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="202" y="393.1514">bool _selectAscensore</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="403.1016"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="202" y="409.4482">bool _selectArredato</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="202" y="425.7451"> </text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="435.6953"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="309" x="202" y="442.042">ImmobileRepositories _immobileRepositories</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="190" y="451.9922"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="336" x="202" y="458.3389">RecentSearchesService _recentSearchesService</text><line style="stroke:#181818;stroke-width:0.5;" x1="183" x2="543" y1="465.6406" y2="465.6406"/><ellipse cx="193" cy="479.2891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="202" y="482.6357">initState()</text><ellipse cx="193" cy="495.5859" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="203" x="202" y="498.9326">_searchImmobili(String query)</text><ellipse cx="193" cy="511.8828" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="202" y="515.2295">_sortResults()</text><ellipse cx="193" cy="528.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="202" y="531.5264">applyFilters()</text><ellipse cx="193" cy="544.4766" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="202" y="547.8232">buildContractFilter()</text><ellipse cx="193" cy="560.7734" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="144" x="202" y="564.1201">buildSuperficieFilter()</text><ellipse cx="193" cy="577.0703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="202" y="580.417">buildStanzeFilter()</text><ellipse cx="193" cy="593.3672" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115" x="202" y="596.7139">buildBagniFilter()</text><ellipse cx="193" cy="609.6641" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="202" y="613.0107">buildPianoFilter()</text><ellipse cx="193" cy="625.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="196" x="202" y="629.3076">buildClasseEnergeticaFilter()</text><ellipse cx="193" cy="642.2578" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="127" x="202" y="645.6045">buildParkingFilter()</text><ellipse cx="193" cy="658.5547" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="202" y="661.9014">buildServiziFilter()</text><ellipse cx="193" cy="674.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="202" y="678.1982">buildFilterBar()</text><ellipse cx="193" cy="691.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="202" y="694.4951">_buildOrderPriceFilter()</text></g><!--MD5=[087797df14a54b3a9a01d7c561d567a5]
+class ImmobileRepositories--><g id="elem_ImmobileRepositories"><rect codeLine="67" fill="#F1F1F1" height="80.5938" id="ImmobileRepositories" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="222" x="7" y="868.5"/><ellipse cx="40.45" cy="884.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M43.4188,890.1406 Q42.8406,890.4375 42.2,890.5781 Q41.5594,890.7344 40.8563,890.7344 Q38.3563,890.7344 37.0281,889.0938 Q35.7156,887.4375 35.7156,884.3125 Q35.7156,881.1875 37.0281,879.5313 Q38.3563,877.875 40.8563,877.875 Q41.5594,877.875 42.2,878.0313 Q42.8563,878.1875 43.4188,878.4844 L43.4188,881.2031 Q42.7938,880.625 42.2,880.3594 Q41.6063,880.0781 40.9813,880.0781 Q39.6375,880.0781 38.95,881.1563 Q38.2625,882.2188 38.2625,884.3125 Q38.2625,886.4063 38.95,887.4844 Q39.6375,888.5469 40.9813,888.5469 Q41.6063,888.5469 42.2,888.2813 Q42.7938,888 43.4188,887.4219 L43.4188,890.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="58.55" y="889.3467">ImmobileRepositories</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="228" y1="900.5" y2="900.5"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="911.1484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="27" y="917.4951">HttpService _httpService</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="228" y1="924.7969" y2="924.7969"/><ellipse cx="18" cy="938.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="196" x="27" y="941.792">searchImmobili(String query)</text></g><!--MD5=[730e3b1a70e1c703d24cd54ec1a3869e]
+class RecentSearchesService--><g id="elem_RecentSearchesService"><rect codeLine="75" fill="#F1F1F1" height="64.2969" id="RecentSearchesService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="197" x="264.5" y="877"/><ellipse cx="279.5" cy="893" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M282.4688,898.6406 Q281.8906,898.9375 281.25,899.0781 Q280.6094,899.2344 279.9063,899.2344 Q277.4063,899.2344 276.0781,897.5938 Q274.7656,895.9375 274.7656,892.8125 Q274.7656,889.6875 276.0781,888.0313 Q277.4063,886.375 279.9063,886.375 Q280.6094,886.375 281.25,886.5313 Q281.9063,886.6875 282.4688,886.9844 L282.4688,889.7031 Q281.8438,889.125 281.25,888.8594 Q280.6563,888.5781 280.0313,888.5781 Q278.6875,888.5781 278,889.6563 Q277.3125,890.7188 277.3125,892.8125 Q277.3125,894.9063 278,895.9844 Q278.6875,897.0469 280.0313,897.0469 Q280.6563,897.0469 281.25,896.7813 Q281.8438,896.5 282.4688,895.9219 L282.4688,898.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="293.5" y="897.8467">RecentSearchesService</text><line style="stroke:#181818;stroke-width:0.5;" x1="265.5" x2="460.5" y1="909" y2="909"/><line style="stroke:#181818;stroke-width:0.5;" x1="265.5" x2="460.5" y1="917" y2="917"/><ellipse cx="275.5" cy="930.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="167" x="284.5" y="933.9951">addSearch(String query)</text></g><!--MD5=[1e4dfdc486a240c5c9712dedb1501ac3]
+class Immobile--><g id="elem_Immobile"><rect codeLine="48" fill="#F1F1F1" height="259.8594" id="Immobile" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="200" x="497" y="779"/><ellipse cx="561.75" cy="795" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M564.7188,800.6406 Q564.1406,800.9375 563.5,801.0781 Q562.8594,801.2344 562.1563,801.2344 Q559.6563,801.2344 558.3281,799.5938 Q557.0156,797.9375 557.0156,794.8125 Q557.0156,791.6875 558.3281,790.0313 Q559.6563,788.375 562.1563,788.375 Q562.8594,788.375 563.5,788.5313 Q564.1563,788.6875 564.7188,788.9844 L564.7188,791.7031 Q564.0938,791.125 563.5,790.8594 Q562.9063,790.5781 562.2813,790.5781 Q560.9375,790.5781 560.25,791.6563 Q559.5625,792.7188 559.5625,794.8125 Q559.5625,796.9063 560.25,797.9844 Q560.9375,799.0469 562.2813,799.0469 Q562.9063,799.0469 563.5,798.7813 Q564.0938,798.5 564.7188,797.9219 L564.7188,800.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="582.25" y="799.8467">Immobile</text><line style="stroke:#181818;stroke-width:0.5;" x1="498" x2="696" y1="811" y2="811"/><ellipse cx="508" cy="824.6484" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="517" y="827.9951">tipo_contratto: String</text><ellipse cx="508" cy="840.9453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="517" y="844.292">superficie: int</text><ellipse cx="508" cy="857.2422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="127" x="517" y="860.5889">parcheggio: String</text><ellipse cx="508" cy="873.5391" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="517" y="876.8857">stanza: int</text><ellipse cx="508" cy="889.8359" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="517" y="893.1826">classe_energetica: String</text><ellipse cx="508" cy="906.1328" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="517" y="909.4795">bagno: int</text><ellipse cx="508" cy="922.4297" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="517" y="925.7764">piano: int</text><ellipse cx="508" cy="938.7266" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="134" x="517" y="942.0732">climatizzatore: bool</text><ellipse cx="508" cy="955.0234" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="517" y="958.3701">balcone: bool</text><ellipse cx="508" cy="971.3203" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="517" y="974.667">portineria: bool</text><ellipse cx="508" cy="987.6172" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="517" y="990.9639">giardino: bool</text><ellipse cx="508" cy="1003.9141" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="517" y="1007.2607">ascensore: bool</text><ellipse cx="508" cy="1020.2109" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="517" y="1023.5576">arredato: bool</text><line style="stroke:#181818;stroke-width:0.5;" x1="498" x2="696" y1="1030.8594" y2="1030.8594"/></g><!--MD5=[b8da968a4a902f8c8508ad0decda1387]
+class HttpService--><g id="elem_HttpService"><rect codeLine="80" fill="#F1F1F1" height="64.2969" id="HttpService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="120" x="58" y="1100"/><ellipse cx="77.05" cy="1116" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M80.0188,1121.6406 Q79.4406,1121.9375 78.8,1122.0781 Q78.1594,1122.2344 77.4563,1122.2344 Q74.9563,1122.2344 73.6281,1120.5938 Q72.3156,1118.9375 72.3156,1115.8125 Q72.3156,1112.6875 73.6281,1111.0313 Q74.9563,1109.375 77.4563,1109.375 Q78.1594,1109.375 78.8,1109.5313 Q79.4563,1109.6875 80.0188,1109.9844 L80.0188,1112.7031 Q79.3938,1112.125 78.8,1111.8594 Q78.2063,1111.5781 77.5813,1111.5781 Q76.2375,1111.5781 75.55,1112.6563 Q74.8625,1113.7188 74.8625,1115.8125 Q74.8625,1117.9063 75.55,1118.9844 Q76.2375,1120.0469 77.5813,1120.0469 Q78.2063,1120.0469 78.8,1119.7813 Q79.3938,1119.5 80.0188,1118.9219 L80.0188,1121.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="91.95" y="1120.8467">HttpService</text><line style="stroke:#181818;stroke-width:0.5;" x1="59" x2="177" y1="1132" y2="1132"/><line style="stroke:#181818;stroke-width:0.5;" x1="59" x2="177" y1="1140" y2="1140"/><ellipse cx="69" cy="1153.6484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="78" y="1156.9951">get(String url)</text></g><!--MD5=[28b5a093bd85cb9d394482084ef01f25]
+link SearchPage to SearchPageState--><g id="link_SearchPage_SearchPageState"><path codeLine="4" d="M363,55.24 C363,69.08 363,88.31 363,110.71 " fill="none" id="SearchPage-to-SearchPageState" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="363,115.84,367,106.84,363,110.84,359,106.84,363,115.84" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[94e2ec161e2e332b40dba46abf0ec58a]
+link SearchPageState to ImmobileRepositories--><g id="link_SearchPageState_ImmobileRepositories"><path codeLine="44" d="M219.24,702.21 C188.07,765.57 158.8,825.07 139.82,863.64 " fill="none" id="SearchPageState-to-ImmobileRepositories" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="137.56,868.24,145.1144,861.9209,139.7617,863.7508,137.9317,858.3982,137.56,868.24" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[08620f0912f7e8342a62c2198ee30963]
+link SearchPageState to RecentSearchesService--><g id="link_SearchPageState_RecentSearchesService"><path codeLine="45" d="M363,702.21 C363,769.9 363,833.2 363,871.26 " fill="none" id="SearchPageState-to-RecentSearchesService" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="363,876.69,367,867.69,363,871.69,359,867.69,363,876.69" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c7c8839f5e37b3a9cd9d66fc82b1d0f0]
+link SearchPageState to Immobile--><g id="link_SearchPageState_Immobile"><path codeLine="64" d="M500.3,702.21 C511.97,727.05 523.37,751.3 534,773.92 " fill="none" id="SearchPageState-to-Immobile" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="536.26,778.73,536.0651,768.8831,534.1393,774.202,528.8204,772.2762,536.26,778.73" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="523" y="745.0669">filtra</text></g><!--MD5=[a451442e23c434a483d7f3d269032cc3]
+link ImmobileRepositories to HttpService--><g id="link_ImmobileRepositories_HttpService"><path codeLine="72" d="M118,949.51 C118,990.62 118,1054.47 118,1094.45 " fill="none" id="ImmobileRepositories-to-HttpService" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="118,1099.68,122,1090.68,118,1094.68,114,1090.68,118,1099.68" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[64db8a8f9ce403247ac4a0aabcd186a2]
+@startuml
+' === INTERFACCIA PRINCIPALE ===
+class SearchPage
+
+SearchPage - -> SearchPageState
+
+' === STATO DELLA PAGINA DI RICERCA ===
+class SearchPageState {
+  - List _results
+  - List _originalResults
+  - String _sortOrder
+  - String _selectedTipologiaContratto
+  - String _selectedSuperficie
+  - String _selectedParcheggio
+  - String _selectedStanze
+  - String _selectedClasseEnergetica
+  - String _selectedBagno
+  - String _selectedPiano
+  - bool _selectedClimatizzatore
+  - bool _selectedBalcone
+  - bool _selectPortineria
+  - bool _selectGiardino
+  - bool _selectAscensore
+  - bool _selectArredato
+
+  - ImmobileRepositories _immobileRepositories
+  - RecentSearchesService _recentSearchesService
+
+  + initState()
+  + _searchImmobili(String query)
+  + _sortResults()
+  + applyFilters()
+  + buildContractFilter()
+  + buildSuperficieFilter()
+  + buildStanzeFilter()
+  + buildBagniFilter()
+  + buildPianoFilter()
+  + buildClasseEnergeticaFilter()
+  + buildParkingFilter()
+  + buildServiziFilter()
+  + buildFilterBar()
+  + _buildOrderPriceFilter()
+}
+
+SearchPageState - -> ImmobileRepositories
+SearchPageState - -> RecentSearchesService
+
+' === MODELLO IMMOBILE ===
+class Immobile {
+  + tipo_contratto: String
+  + superficie: int
+  + parcheggio: String
+  + stanza: int
+  + classe_energetica: String
+  + bagno: int
+  + piano: int
+  + climatizzatore: bool
+  + balcone: bool
+  + portineria: bool
+  + giardino: bool
+  + ascensore: bool
+  + arredato: bool
+}
+
+SearchPageState - -> Immobile : filtra
+
+' === REPOSITORY PER IMMOBILI ===
+class ImmobileRepositories {
+  - HttpService _httpService
+  + searchImmobili(String query)
+}
+
+ImmobileRepositories - -> HttpService
+
+' === SERVIZIO PER RICERCHE RECENTI ===
+class RecentSearchesService {
+  + addSearch(String query)
+}
+
+' === SERVIZIO HTTP ===
+class HttpService {
+  + get(String url)
+}
+@enduml
+
+@startuml
+class SearchPage
+
+SearchPage - -> SearchPageState
+
+class SearchPageState {
+  - List _results
+  - List _originalResults
+  - String _sortOrder
+  - String _selectedTipologiaContratto
+  - String _selectedSuperficie
+  - String _selectedParcheggio
+  - String _selectedStanze
+  - String _selectedClasseEnergetica
+  - String _selectedBagno
+  - String _selectedPiano
+  - bool _selectedClimatizzatore
+  - bool _selectedBalcone
+  - bool _selectPortineria
+  - bool _selectGiardino
+  - bool _selectAscensore
+  - bool _selectArredato
+
+  - ImmobileRepositories _immobileRepositories
+  - RecentSearchesService _recentSearchesService
+
+  + initState()
+  + _searchImmobili(String query)
+  + _sortResults()
+  + applyFilters()
+  + buildContractFilter()
+  + buildSuperficieFilter()
+  + buildStanzeFilter()
+  + buildBagniFilter()
+  + buildPianoFilter()
+  + buildClasseEnergeticaFilter()
+  + buildParkingFilter()
+  + buildServiziFilter()
+  + buildFilterBar()
+  + _buildOrderPriceFilter()
+}
+
+SearchPageState - -> ImmobileRepositories
+SearchPageState - -> RecentSearchesService
+
+class Immobile {
+  + tipo_contratto: String
+  + superficie: int
+  + parcheggio: String
+  + stanza: int
+  + classe_energetica: String
+  + bagno: int
+  + piano: int
+  + climatizzatore: bool
+  + balcone: bool
+  + portineria: bool
+  + giardino: bool
+  + ascensore: bool
+  + arredato: bool
+}
+
+SearchPageState - -> Immobile : filtra
+
+class ImmobileRepositories {
+  - HttpService _httpService
+  + searchImmobili(String query)
+}
+
+ImmobileRepositories - -> HttpService
+
+class RecentSearchesService {
+  + addSearch(String query)
+}
+
+class HttpService {
+  + get(String url)
+}
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

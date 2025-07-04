@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="851px" preserveAspectRatio="none" style="width:821px;height:851px;background:#FFFFFF;" version="1.1" viewBox="0 0 821 851" width="821px" zoomAndPan="magnify"><defs/><g><!--MD5=[9681dc6e01e10c6b4fe06895ae94f592]
+cluster UI--><g id="cluster_UI"><path d="M250.5,6 L266.5,6 A3.75,3.75 0 0 1 269,8.5 L276,28.2969 L527.5,28.2969 A2.5,2.5 0 0 1 530,30.7969 L530,407.5 A2.5,2.5 0 0 1 527.5,410 L250.5,410 A2.5,2.5 0 0 1 248,407.5 L248,8.5 A2.5,2.5 0 0 1 250.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="248" x2="276" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="252" y="20.9951">UI</text></g><!--MD5=[027ebfd53c01aea08f474edbf35d0797]
+cluster Models--><g id="cluster_Models"><path d="M500.5,459 L557.5,459 A3.75,3.75 0 0 1 560,461.5 L567,481.2969 L811.5,481.2969 A2.5,2.5 0 0 1 814,483.7969 L814,685.5 A2.5,2.5 0 0 1 811.5,688 L500.5,688 A2.5,2.5 0 0 1 498,685.5 L498,461.5 A2.5,2.5 0 0 1 500.5,459 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="498" x2="567" y1="481.2969" y2="481.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="56" x="502" y="473.9951">Models</text></g><!--MD5=[600c2d25b6889bd4e9f6b335204b22ae]
+cluster Repositories--><g id="cluster_Repositories"><path d="M220.5,499.5 L320.5,499.5 A3.75,3.75 0 0 1 323,502 L330,521.7969 L471.5,521.7969 A2.5,2.5 0 0 1 474,524.2969 L474,645 A2.5,2.5 0 0 1 471.5,647.5 L220.5,647.5 A2.5,2.5 0 0 1 218,645 L218,502 A2.5,2.5 0 0 1 220.5,499.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="218" x2="330" y1="521.7969" y2="521.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="99" x="222" y="514.4951">Repositories</text></g><!--MD5=[46d1235180ad9d6d621a9bea424853f2]
+cluster Providers--><g id="cluster_Providers"><path d="M8.5,516 L85.5,516 A3.75,3.75 0 0 1 88,518.5 L95,538.2969 L191.5,538.2969 A2.5,2.5 0 0 1 194,540.7969 L194,841.5 A2.5,2.5 0 0 1 191.5,844 L8.5,844 A2.5,2.5 0 0 1 6,841.5 L6,518.5 A2.5,2.5 0 0 1 8.5,516 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="95" y1="538.2969" y2="538.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="76" x="10" y="530.9951">Providers</text></g><!--MD5=[cdfd548b3455e70392372b1f27091970]
+cluster Services--><g id="cluster_Services"><path d="M277.5,737 L346.5,737 A3.75,3.75 0 0 1 349,739.5 L356,759.2969 L414.5,759.2969 A2.5,2.5 0 0 1 417,761.7969 L417,833.5 A2.5,2.5 0 0 1 414.5,836 L277.5,836 A2.5,2.5 0 0 1 275,833.5 L275,739.5 A2.5,2.5 0 0 1 277.5,737 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="275" x2="356" y1="759.2969" y2="759.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="68" x="279" y="751.9951">Services</text></g><!--MD5=[50938599947aa681f99bd3b48b1b2edf]
+class UserSendVisitsPage--><g id="elem_UserSendVisitsPage"><rect codeLine="3" fill="#F1F1F1" height="80.5938" id="UserSendVisitsPage" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="250" x="264" y="41"/><ellipse cx="315.25" cy="57" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M318.2188,62.6406 Q317.6406,62.9375 317,63.0781 Q316.3594,63.2344 315.6563,63.2344 Q313.1563,63.2344 311.8281,61.5938 Q310.5156,59.9375 310.5156,56.8125 Q310.5156,53.6875 311.8281,52.0313 Q313.1563,50.375 315.6563,50.375 Q316.3594,50.375 317,50.5313 Q317.6563,50.6875 318.2188,50.9844 L318.2188,53.7031 Q317.5938,53.125 317,52.8594 Q316.4063,52.5781 315.7813,52.5781 Q314.4375,52.5781 313.75,53.6563 Q313.0625,54.7188 313.0625,56.8125 Q313.0625,58.9063 313.75,59.9844 Q314.4375,61.0469 315.7813,61.0469 Q316.4063,61.0469 317,60.7813 Q317.5938,60.5 318.2188,59.9219 L318.2188,62.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="335.75" y="61.8467">UserSendVisitsPage</text><line style="stroke:#181818;stroke-width:0.5;" x1="265" x2="513" y1="73" y2="73"/><ellipse cx="275" cy="86.6484" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="224" x="284" y="89.9951">Map&lt;String, dynamic&gt; immobile</text><ellipse cx="275" cy="102.9453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="284" y="106.292">String usernameAgente</text><line style="stroke:#181818;stroke-width:0.5;" x1="265" x2="513" y1="113.5938" y2="113.5938"/></g><!--MD5=[99869c5689345ec629aa0637e0523c43]
+class _UserSendVisitsPageState--><g id="elem__UserSendVisitsPageState"><rect codeLine="7" fill="#F1F1F1" height="194.6719" id="_UserSendVisitsPageState" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="249" x="264.5" y="199"/><ellipse cx="295.25" cy="215" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M298.2188,220.6406 Q297.6406,220.9375 297,221.0781 Q296.3594,221.2344 295.6563,221.2344 Q293.1563,221.2344 291.8281,219.5938 Q290.5156,217.9375 290.5156,214.8125 Q290.5156,211.6875 291.8281,210.0313 Q293.1563,208.375 295.6563,208.375 Q296.3594,208.375 297,208.5313 Q297.6563,208.6875 298.2188,208.9844 L298.2188,211.7031 Q297.5938,211.125 297,210.8594 Q296.4063,210.5781 295.7813,210.5781 Q294.4375,210.5781 293.75,211.6563 Q293.0625,212.7188 293.0625,214.8125 Q293.0625,216.9063 293.75,217.9844 Q294.4375,219.0469 295.7813,219.0469 Q296.4063,219.0469 297,218.7813 Q297.5938,218.5 298.2188,217.9219 L298.2188,220.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="182" x="312.75" y="219.8467">_UserSendVisitsPageState</text><line style="stroke:#181818;stroke-width:0.5;" x1="265.5" x2="512.5" y1="231" y2="231"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="272.5" y="241.6484"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="160" x="284.5" y="247.9951">DateTime _focusedDay</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="272.5" y="257.9453"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="284.5" y="264.292">DateTime? _selectedDay</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="272.5" y="274.2422"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="284.5" y="280.5889">DateTime? _selectedTime</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="272.5" y="290.5391"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="198" x="284.5" y="296.8857">List&lt;String&gt; _availableTimes</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="272.5" y="306.8359"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="223" x="284.5" y="313.1826">List&lt;DateTime&gt; _occupiedSlots</text><line style="stroke:#181818;stroke-width:0.5;" x1="265.5" x2="512.5" y1="320.4844" y2="320.4844"/><ellipse cx="275.5" cy="334.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="284.5" y="337.4795">initState()</text><ellipse cx="275.5" cy="350.4297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="284.5" y="353.7764">build()</text><ellipse cx="275.5" cy="366.7266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="284.5" y="370.0732">_submitVisita()</text><ellipse cx="275.5" cy="383.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="284.5" y="386.3701">_loadVisiteApprovate()</text></g><!--MD5=[55dea3ac875c3968bffb6c77470e8800]
+class Visita--><g id="elem_Visita"><rect codeLine="21" fill="#F1F1F1" height="178.375" id="Visita" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="284" x="514" y="494"/><ellipse cx="633.75" cy="510" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M636.7188,515.6406 Q636.1406,515.9375 635.5,516.0781 Q634.8594,516.2344 634.1563,516.2344 Q631.6563,516.2344 630.3281,514.5938 Q629.0156,512.9375 629.0156,509.8125 Q629.0156,506.6875 630.3281,505.0313 Q631.6563,503.375 634.1563,503.375 Q634.8594,503.375 635.5,503.5313 Q636.1563,503.6875 636.7188,503.9844 L636.7188,506.7031 Q636.0938,506.125 635.5,505.8594 Q634.9063,505.5781 634.2813,505.5781 Q632.9375,505.5781 632.25,506.6563 Q631.5625,507.7188 631.5625,509.8125 Q631.5625,511.9063 632.25,512.9844 Q632.9375,514.0469 634.2813,514.0469 Q634.9063,514.0469 635.5,513.7813 Q636.0938,513.5 636.7188,512.9219 L636.7188,515.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="654.25" y="514.8467">Visita</text><line style="stroke:#181818;stroke-width:0.5;" x1="515" x2="797" y1="526" y2="526"/><ellipse cx="525" cy="539.6484" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="534" y="542.9951">int idVisita</text><ellipse cx="525" cy="555.9453" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="534" y="559.292">int idImmobile</text><ellipse cx="525" cy="572.2422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="534" y="575.5889">String usernameUtente</text><ellipse cx="525" cy="588.5391" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="534" y="591.8857">DateTime oraVisita</text><ellipse cx="525" cy="604.8359" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="534" y="608.1826">DateTime dataVisita</text><ellipse cx="525" cy="621.1328" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115" x="534" y="624.4795">String statoVisita</text><ellipse cx="525" cy="637.4297" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="223" x="534" y="640.7764">String statoApprovazioneAgente</text><ellipse cx="525" cy="653.7266" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="258" x="534" y="657.0732">String usernameAgenteApprovazione</text><line style="stroke:#181818;stroke-width:0.5;" x1="515" x2="797" y1="664.375" y2="664.375"/></g><!--MD5=[383d5c6a72ab4279516003f4cf4c87c9]
+class VisitaRepositories--><g id="elem_VisitaRepositories"><rect codeLine="34" fill="#F1F1F1" height="96.8906" id="VisitaRepositories" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="224" x="234" y="534.5"/><ellipse cx="280.25" cy="550.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M283.2188,556.1406 Q282.6406,556.4375 282,556.5781 Q281.3594,556.7344 280.6563,556.7344 Q278.1563,556.7344 276.8281,555.0938 Q275.5156,553.4375 275.5156,550.3125 Q275.5156,547.1875 276.8281,545.5313 Q278.1563,543.875 280.6563,543.875 Q281.3594,543.875 282,544.0313 Q282.6563,544.1875 283.2188,544.4844 L283.2188,547.2031 Q282.5938,546.625 282,546.3594 Q281.4063,546.0781 280.7813,546.0781 Q279.4375,546.0781 278.75,547.1563 Q278.0625,548.2188 278.0625,550.3125 Q278.0625,552.4063 278.75,553.4844 Q279.4375,554.5469 280.7813,554.5469 Q281.4063,554.5469 282,554.2813 Q282.5938,554 283.2188,553.4219 L283.2188,556.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="300.75" y="555.3467">VisitaRepositories</text><line style="stroke:#181818;stroke-width:0.5;" x1="235" x2="457" y1="566.5" y2="566.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="235" x2="457" y1="574.5" y2="574.5"/><ellipse cx="245" cy="588.1484" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="254" y="591.4951">getVisiteCompletate()</text><ellipse cx="245" cy="604.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="198" x="254" y="607.792">getVisiteByUsername(String)</text><ellipse cx="245" cy="620.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="254" y="624.0889">createVisita(Visita)</text></g><!--MD5=[0e0e86028cdeeab45c3700b4b06a7b12]
+class AuthProvider--><g id="elem_AuthProvider"><rect codeLine="42" fill="#F1F1F1" height="64.2969" id="AuthProvider" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="156" x="22" y="551"/><ellipse cx="53.2" cy="567" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M56.1688,572.6406 Q55.5906,572.9375 54.95,573.0781 Q54.3094,573.2344 53.6063,573.2344 Q51.1063,573.2344 49.7781,571.5938 Q48.4656,569.9375 48.4656,566.8125 Q48.4656,563.6875 49.7781,562.0313 Q51.1063,560.375 53.6063,560.375 Q54.3094,560.375 54.95,560.5313 Q55.6063,560.6875 56.1688,560.9844 L56.1688,563.7031 Q55.5438,563.125 54.95,562.8594 Q54.3563,562.5781 53.7313,562.5781 Q52.3875,562.5781 51.7,563.6563 Q51.0125,564.7188 51.0125,566.8125 Q51.0125,568.9063 51.7,569.9844 Q52.3875,571.0469 53.7313,571.0469 Q54.3563,571.0469 54.95,570.7813 Q55.5438,570.5 56.1688,569.9219 L56.1688,572.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="70.8" y="571.8467">AuthProvider</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="177" y1="583" y2="583"/><ellipse cx="33" cy="596.6484" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="42" y="599.9951">currentUser: User?</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="177" y1="607.2969" y2="607.2969"/></g><!--MD5=[3fd616f346a44cd59a91eb10b19e157c]
+class User--><g id="elem_User"><rect codeLine="45" fill="#F1F1F1" height="64.2969" id="User" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="140" x="30" y="764"/><ellipse cx="79.75" cy="780" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M82.7188,785.6406 Q82.1406,785.9375 81.5,786.0781 Q80.8594,786.2344 80.1563,786.2344 Q77.6563,786.2344 76.3281,784.5938 Q75.0156,782.9375 75.0156,779.8125 Q75.0156,776.6875 76.3281,775.0313 Q77.6563,773.375 80.1563,773.375 Q80.8594,773.375 81.5,773.5313 Q82.1563,773.6875 82.7188,773.9844 L82.7188,776.7031 Q82.0938,776.125 81.5,775.8594 Q80.9063,775.5781 80.2813,775.5781 Q78.9375,775.5781 78.25,776.6563 Q77.5625,777.7188 77.5625,779.8125 Q77.5625,781.9063 78.25,782.9844 Q78.9375,784.0469 80.2813,784.0469 Q80.9063,784.0469 81.5,783.7813 Q82.0938,783.5 82.7188,782.9219 L82.7188,785.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="100.25" y="784.8467">User</text><line style="stroke:#181818;stroke-width:0.5;" x1="31" x2="169" y1="796" y2="796"/><ellipse cx="41" cy="809.6484" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="50" y="812.9951">String username</text><line style="stroke:#181818;stroke-width:0.5;" x1="31" x2="169" y1="820.2969" y2="820.2969"/></g><!--MD5=[b8da968a4a902f8c8508ad0decda1387]
+class HttpService--><g id="elem_HttpService"><rect codeLine="51" fill="#F1F1F1" height="48" id="HttpService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="111" x="290.5" y="772"/><ellipse cx="305.5" cy="788" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M308.4688,793.6406 Q307.8906,793.9375 307.25,794.0781 Q306.6094,794.2344 305.9063,794.2344 Q303.4063,794.2344 302.0781,792.5938 Q300.7656,790.9375 300.7656,787.8125 Q300.7656,784.6875 302.0781,783.0313 Q303.4063,781.375 305.9063,781.375 Q306.6094,781.375 307.25,781.5313 Q307.9063,781.6875 308.4688,781.9844 L308.4688,784.7031 Q307.8438,784.125 307.25,783.8594 Q306.6563,783.5781 306.0313,783.5781 Q304.6875,783.5781 304,784.6563 Q303.3125,785.7188 303.3125,787.8125 Q303.3125,789.9063 304,790.9844 Q304.6875,792.0469 306.0313,792.0469 Q306.6563,792.0469 307.25,791.7813 Q307.8438,791.5 308.4688,790.9219 L308.4688,793.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="319.5" y="792.8467">HttpService</text><line style="stroke:#181818;stroke-width:0.5;" x1="291.5" x2="400.5" y1="804" y2="804"/><line style="stroke:#181818;stroke-width:0.5;" x1="291.5" x2="400.5" y1="812" y2="812"/></g><!--MD5=[f4713bb53b0cd6e1d8b96354826a689e]
+link UserSendVisitsPage to _UserSendVisitsPageState--><g id="link_UserSendVisitsPage__UserSendVisitsPageState"><path codeLine="55" d="M389,122.06 C389,142.37 389,168.13 389,193.54 " fill="none" id="UserSendVisitsPage-to-_UserSendVisitsPageState" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="389,198.62,393,189.62,389,193.62,385,189.62,389,198.62" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="65" x="390" y="165.0669">crea stato</text></g><!--MD5=[e376b0eacf602f860ffed99686b2c657]
+link _UserSendVisitsPageState to VisitaRepositories--><g id="link__UserSendVisitsPageState_VisitaRepositories"><path codeLine="56" d="M374.38,394.22 C367.55,439.39 359.69,491.4 353.98,529.22 " fill="none" id="_UserSendVisitsPageState-to-VisitaRepositories" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="353.22,534.23,358.5366,525.9394,353.9771,529.2876,350.6288,524.7281,353.22,534.23" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="369" y="439.0669">usa</text></g><!--MD5=[f3486ebe8b7a285498b417a358aee22a]
+link VisitaRepositories to HttpService--><g id="link_VisitaRepositories_HttpService"><path codeLine="57" d="M346,631.62 C346,673.15 346,732.02 346,766.59 " fill="none" id="VisitaRepositories-to-HttpService" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="346,771.92,350,762.92,346,766.92,342,762.92,346,771.92" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="74" x="347" y="717.0669">dipendenza</text></g><!--MD5=[c9e26242beeb707e038781b102895fe1]
+link _UserSendVisitsPageState to AuthProvider--><g id="link__UserSendVisitsPageState_AuthProvider"><path codeLine="58" d="M277.94,394.08 C257.64,412.6 236.92,432.12 218,451 C186.62,482.33 152.96,520.15 129.66,547.09 " fill="none" id="_UserSendVisitsPageState-to-AuthProvider" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="126.3,550.98,135.2111,546.7857,129.5692,547.1968,129.1581,541.555,126.3,550.98" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="241" y="439.0669">usa</text></g><!--MD5=[6ec4028e1aee79ecd81f48a3a77ed0cc]
+link AuthProvider to User--><g id="link_AuthProvider_User"><path codeLine="59" d="M100,615.13 C100,653.31 100,717.93 100,758.43 " fill="none" id="AuthProvider-to-User" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="100,763.74,104,754.74,100,758.74,96,754.74,100,763.74" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="55" x="101" y="717.0669">contiene</text></g><!--MD5=[d99a424bbf1bd0559b0a6b5ee6700b0e]
+link _UserSendVisitsPageState to Visita--><g id="link__UserSendVisitsPageState_Visita"><path codeLine="60" d="M479.77,394.22 C508.82,425.17 540.89,459.35 569.63,489.97 " fill="none" id="_UserSendVisitsPageState-to-Visita" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="573.11,493.68,569.8739,484.378,569.6908,490.0319,564.0369,489.8487,573.11,493.68" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="523" y="439.0669">crea</text></g><!--MD5=[2e09ddb10453273aa4db77988f1817f5]
+link UserSendVisitsPage to Visita--><g id="link_UserSendVisitsPage_Visita"><path codeLine="61" d="M451.95,122.04 C479.55,142.14 510.31,168.73 531,199 C591.35,287.29 624.2,406.73 640.87,488.62 " fill="none" id="UserSendVisitsPage-to-Visita" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="641.95,493.96,644.0965,484.3479,640.9639,489.0582,636.2536,485.9256,641.95,493.96" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="122" x="624" y="301.0669">usa indirettamente</text></g><!--MD5=[96272dfdf5ffb84be61bb7b8bf5b748c]
+@startuml
+' Dichiarazione dei package
+package "UI" {
+  class UserSendVisitsPage {
+    +Map<String, dynamic> immobile
+    +String usernameAgente
+  }
+  class _UserSendVisitsPageState {
+    -DateTime _focusedDay
+    -DateTime? _selectedDay
+    -DateTime? _selectedTime
+    -List<String> _availableTimes
+    -List<DateTime> _occupiedSlots
+    +initState()
+    +build()
+    +_submitVisita()
+    +_loadVisiteApprovate()
+  }
+}
+
+package "Models" {
+  class Visita {
+    +int idVisita
+    +int idImmobile
+    +String usernameUtente
+    +DateTime oraVisita
+    +DateTime dataVisita
+    +String statoVisita
+    +String statoApprovazioneAgente
+    +String usernameAgenteApprovazione
+  }
+}
+
+package "Repositories" {
+  class VisitaRepositories {
+    +getVisiteCompletate()
+    +getVisiteByUsername(String)
+    +createVisita(Visita)
+  }
+}
+
+package "Providers" {
+  class AuthProvider {
+    +currentUser: User?
+  }
+  class User {
+    +String username
+  }
+}
+
+package "Services" {
+  class HttpService
+}
+
+' Relazioni
+UserSendVisitsPage - -> _UserSendVisitsPageState : crea stato
+_UserSendVisitsPageState - -> VisitaRepositories : usa
+VisitaRepositories - -> HttpService : dipendenza
+_UserSendVisitsPageState - -> AuthProvider : usa
+AuthProvider - -> User : contiene
+_UserSendVisitsPageState - -> Visita : crea
+UserSendVisitsPage - -> Visita : usa indirettamente
+@enduml
+
+@startuml
+package "UI" {
+  class UserSendVisitsPage {
+    +Map<String, dynamic> immobile
+    +String usernameAgente
+  }
+  class _UserSendVisitsPageState {
+    -DateTime _focusedDay
+    -DateTime? _selectedDay
+    -DateTime? _selectedTime
+    -List<String> _availableTimes
+    -List<DateTime> _occupiedSlots
+    +initState()
+    +build()
+    +_submitVisita()
+    +_loadVisiteApprovate()
+  }
+}
+
+package "Models" {
+  class Visita {
+    +int idVisita
+    +int idImmobile
+    +String usernameUtente
+    +DateTime oraVisita
+    +DateTime dataVisita
+    +String statoVisita
+    +String statoApprovazioneAgente
+    +String usernameAgenteApprovazione
+  }
+}
+
+package "Repositories" {
+  class VisitaRepositories {
+    +getVisiteCompletate()
+    +getVisiteByUsername(String)
+    +createVisita(Visita)
+  }
+}
+
+package "Providers" {
+  class AuthProvider {
+    +currentUser: User?
+  }
+  class User {
+    +String username
+  }
+}
+
+package "Services" {
+  class HttpService
+}
+
+UserSendVisitsPage - -> _UserSendVisitsPageState : crea stato
+_UserSendVisitsPageState - -> VisitaRepositories : usa
+VisitaRepositories - -> HttpService : dipendenza
+_UserSendVisitsPageState - -> AuthProvider : usa
+AuthProvider - -> User : contiene
+_UserSendVisitsPageState - -> Visita : crea
+UserSendVisitsPage - -> Visita : usa indirettamente
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

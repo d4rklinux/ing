@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="903px" preserveAspectRatio="none" style="width:1088px;height:903px;background:#FFFFFF;" version="1.1" viewBox="0 0 1088 903" width="1088px" zoomAndPan="magnify"><defs/><g><!--MD5=[2161e8a205931fe1e2686d78fac16837]
+cluster Flutter App--><g id="cluster_Flutter App"><path d="M8.5,6 L97.5,6 A3.75,3.75 0 0 1 100,8.5 L107,28.2969 L1078.5,28.2969 A2.5,2.5 0 0 1 1081,30.7969 L1081,893.5 A2.5,2.5 0 0 1 1078.5,896 L8.5,896 A2.5,2.5 0 0 1 6,893.5 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="107" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="88" x="10" y="20.9951">Flutter App</text></g><!--MD5=[a4a5e1504f4ab0b8923881d056145c3a]
+class UserSendOfferPage--><g id="elem_UserSendOfferPage"><rect codeLine="6" fill="#F1F1F1" height="74.8906" id="UserSendOfferPage" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="232" x="527" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="575" y="58.9951">UserSendOfferPage</text><line style="stroke:#181818;stroke-width:0.5;" x1="528" x2="758" y1="67.2969" y2="67.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="533" y="84.292">+immobile: dynamic</text><line style="stroke:#181818;stroke-width:0.5;" x1="528" x2="758" y1="91.5938" y2="91.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="220" x="533" y="108.5889">+UserSendOfferPage(immobile)</text></g><!--MD5=[77c6e1eaf36134e0ff441beafe396dc9]
+class _UserSendOfferPageState--><g id="elem__UserSendOfferPageState"><rect codeLine="11" fill="#F1F1F1" height="303.0469" id="_UserSendOfferPageState" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="452" x="417" y="176"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="553.5" y="193.9951">_UserSendOfferPageState</text><line style="stroke:#181818;stroke-width:0.5;" x1="418" x2="868" y1="202.2969" y2="202.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="240" x="423" y="219.292">-_formKey: GlobalKey&lt;FormState&gt;</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="280" x="423" y="235.5889">-_prezzoController: TextEditingController</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="423" y="251.8857">-_isSubmitting: bool</text><line style="stroke:#181818;stroke-width:0.5;" x1="418" x2="868" y1="259.1875" y2="259.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="423" y="276.1826">+dispose(): void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="211" x="423" y="292.4795">+_inviaOfferta(): Future&lt;void&gt;</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="440" x="423" y="308.7764">+_showCupertinoDialog(prezzoFormattato, prezzoOfferto): void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="423" y="325.0732">+_buildErrorPage(): Widget</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="423" y="341.3701">+build(context): Widget</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="255" x="423" y="357.667">+_buildImageAndText(width): Widget</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="296" x="423" y="373.9639">+_buildImmobileDetails(id, prezzo): Widget</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="423" y="390.2607">+_buildFoto(): Widget</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="423" y="406.5576">+_buildTitolo(): Widget</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="263" x="423" y="422.8545">+_buildPrezzoAttuale(prezzo): Widget</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="176" x="423" y="439.1514">+_buildIndirizzo(): Widget</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="233" x="423" y="455.4482">+_buildPriceField(prezzo): Widget</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="214" x="423" y="471.7451">+_buildSubmitButton(): Widget</text></g><!--MD5=[7424678980e2e90fcd1c81b65ea8fe0c]
+class Proposta--><g id="elem_Proposta"><rect codeLine="30" fill="#F1F1F1" height="221.5625" id="Proposta" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="302" x="22" y="539"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="142" y="556.9951">Proposta</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="323" y1="565.2969" y2="565.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="28" y="582.292">+idProposta: int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="28" y="598.5889">+idImmobileProposta: int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="170" x="28" y="614.8857">+vecchioPrezzo: double</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="160" x="28" y="631.1826">+nuovoPrezzo: double</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="28" y="647.4795">+statoProposta: String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="28" y="663.7764">+dataProposta: DateTime</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="172" x="28" y="680.0732">+oraProposta: DateTime</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="240" x="28" y="696.3701">+usernameUtenteProposta: String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="290" x="28" y="712.667">+usernameAgenteControProposta: String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="176" x="28" y="728.9639">+controProposta: double</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="205" x="28" y="745.2607">+statoControProposta: String</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="323" y1="752.5625" y2="752.5625"/></g><!--MD5=[95780e62167c4b3f93607042a32f68ab]
+class PropostaRepository--><g id="elem_PropostaRepository"><rect codeLine="44" fill="#F1F1F1" height="58.5938" id="PropostaRepository" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="306" x="359" y="620.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="444" y="638.4951">PropostaRepository</text><line style="stroke:#181818;stroke-width:0.5;" x1="360" x2="664" y1="646.7969" y2="646.7969"/><line style="stroke:#181818;stroke-width:0.5;" x1="360" x2="664" y1="654.7969" y2="654.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="294" x="365" y="671.792">+inviaProposta(Proposta): Future&lt;String&gt;</text></g><!--MD5=[0e0e86028cdeeab45c3700b4b06a7b12]
+class AuthProvider--><g id="elem_AuthProvider"><rect codeLine="48" fill="#F1F1F1" height="58.5938" id="AuthProvider" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="147" x="700.5" y="620.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="730" y="638.4951">AuthProvider</text><line style="stroke:#181818;stroke-width:0.5;" x1="701.5" x2="846.5" y1="646.7969" y2="646.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="706.5" y="663.792">+currentUser: User</text><line style="stroke:#181818;stroke-width:0.5;" x1="701.5" x2="846.5" y1="671.0938" y2="671.0938"/></g><!--MD5=[3fd616f346a44cd59a91eb10b19e157c]
+class User--><g id="elem_User"><rect codeLine="52" fill="#F1F1F1" height="58.5938" id="User" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="143" x="702.5" y="821"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="758" y="838.9951">User</text><line style="stroke:#181818;stroke-width:0.5;" x1="703.5" x2="844.5" y1="847.2969" y2="847.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="708.5" y="864.292">+username: String</text><line style="stroke:#181818;stroke-width:0.5;" x1="703.5" x2="844.5" y1="871.5938" y2="871.5938"/></g><!--MD5=[3ac70512afb4e03848d036ec176ce28b]
+class NavigationService--><g id="elem_NavigationService"><rect codeLine="56" fill="#F1F1F1" height="58.5938" id="NavigationService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="182" x="883" y="620.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="913.5" y="638.4951">NavigationService</text><line style="stroke:#181818;stroke-width:0.5;" x1="884" x2="1064" y1="646.7969" y2="646.7969"/><line style="stroke:#181818;stroke-width:0.5;" x1="884" x2="1064" y1="654.7969" y2="654.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="170" x="889" y="671.792">+navigateTo(page): void</text></g><!--MD5=[2fbdd0ebd7243668644b43b3b4367987]
+class UserHomePage--><g id="elem_UserHomePage"><rect codeLine="60" fill="#F1F1F1" height="42.2969" id="UserHomePage" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="114" x="917" y="829.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="920" y="847.4951">UserHomePage</text><line style="stroke:#181818;stroke-width:0.5;" x1="918" x2="1030" y1="855.7969" y2="855.7969"/><line style="stroke:#181818;stroke-width:0.5;" x1="918" x2="1030" y1="863.7969" y2="863.7969"/></g><!--MD5=[cd7892bd0f8adda3d1ef77533e730d82]
+link UserSendOfferPage to _UserSendOfferPageState--><g id="link_UserSendOfferPage__UserSendOfferPageState"><path codeLine="62" d="M643,116.21 C643,131.57 643,150.56 643,170.78 " fill="none" id="UserSendOfferPage-to-_UserSendOfferPageState" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="643,175.95,647,166.95,643,170.95,639,166.95,643,175.95" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ead53c73219f9a457f9f9b259d59d614]
+link _UserSendOfferPageState to Proposta--><g id="link__UserSendOfferPageState_Proposta"><path codeLine="63" d="M422.11,479.13 C390.54,500.66 358.62,522.42 328.66,542.85 " fill="none" id="_UserSendOfferPageState-to-Proposta" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="324.26,545.86,333.9524,544.1115,328.396,543.0504,329.457,537.494,324.26,545.86" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7c26296b9445ff7502f95a1a4204e6c6]
+link _UserSendOfferPageState to PropostaRepository--><g id="link__UserSendOfferPageState_PropostaRepository"><path codeLine="64" d="M581.34,479.37 C560.46,530.43 539.07,582.77 525.67,615.55 " fill="none" id="_UserSendOfferPageState-to-PropostaRepository" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="523.75,620.24,530.8681,613.4332,525.6487,615.6145,523.4673,610.3952,523.75,620.24" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[11345e609aee5b7cda5301549fa446b1]
+link _UserSendOfferPageState to AuthProvider--><g id="link__UserSendOfferPageState_AuthProvider"><path codeLine="65" d="M704.66,479.37 C725.54,530.43 746.93,582.77 760.33,615.55 " fill="none" id="_UserSendOfferPageState-to-AuthProvider" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="762.25,620.24,762.5327,610.3952,760.3513,615.6145,755.1319,613.4332,762.25,620.24" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8255baf6f4539c67387930890d70f92b]
+link _UserSendOfferPageState to NavigationService--><g id="link__UserSendOfferPageState_NavigationService"><path codeLine="66" d="M803.03,479.11 C823.97,499.15 845.07,519.5 865,539 C891.34,564.77 920.73,594.48 942.34,616.52 " fill="none" id="_UserSendOfferPageState-to-NavigationService" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="946.01,620.27,942.5675,611.0424,942.5104,616.6989,936.8538,616.6418,946.01,620.27" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6127dc52f967b945d7e9e97d760042c5]
+link NavigationService to UserHomePage--><g id="link_NavigationService_UserHomePage"><path codeLine="67" d="M974,679.86 C974,718.71 974,787.18 974,824.14 " fill="none" id="NavigationService-to-UserHomePage" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="974,829.36,978,820.36,974,824.36,970,820.36,974,829.36" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6ec4028e1aee79ecd81f48a3a77ed0cc]
+link AuthProvider to User--><g id="link_AuthProvider_User"><path codeLine="68" d="M774,679.86 C774,715.84 774,777.22 774,815.46 " fill="none" id="AuthProvider-to-User" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="774,820.92,778,811.92,774,815.92,770,811.92,774,820.92" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9f82f33aa6f0dbf11a03876f4a9588ee]
+@startuml
+skinparam style strictuml
+skinparam classAttributeIconSize 0
+
+package "Flutter App" {
+
+  class UserSendOfferPage {
+    +immobile: dynamic
+    +UserSendOfferPage(immobile)
+  }
+
+  class _UserSendOfferPageState {
+    -_formKey: GlobalKey<FormState>
+    -_prezzoController: TextEditingController
+    -_isSubmitting: bool
+    +dispose(): void
+    +_inviaOfferta(): Future<void>
+    +_showCupertinoDialog(prezzoFormattato, prezzoOfferto): void
+    +_buildErrorPage(): Widget
+    +build(context): Widget
+    +_buildImageAndText(width): Widget
+    +_buildImmobileDetails(id, prezzo): Widget
+    +_buildFoto(): Widget
+    +_buildTitolo(): Widget
+    +_buildPrezzoAttuale(prezzo): Widget
+    +_buildIndirizzo(): Widget
+    +_buildPriceField(prezzo): Widget
+    +_buildSubmitButton(): Widget
+  }
+
+  class Proposta {
+    +idProposta: int
+    +idImmobileProposta: int
+    +vecchioPrezzo: double
+    +nuovoPrezzo: double
+    +statoProposta: String
+    +dataProposta: DateTime
+    +oraProposta: DateTime
+    +usernameUtenteProposta: String
+    +usernameAgenteControProposta: String
+    +controProposta: double
+    +statoControProposta: String
+  }
+
+  class PropostaRepository {
+    +inviaProposta(Proposta): Future<String>
+  }
+
+  class AuthProvider {
+    +currentUser: User
+  }
+
+  class User {
+    +username: String
+  }
+
+  class NavigationService {
+    +navigateTo(page): void
+  }
+
+  class UserHomePage
+
+  UserSendOfferPage - -> _UserSendOfferPageState
+  _UserSendOfferPageState - -> Proposta
+  _UserSendOfferPageState - -> PropostaRepository
+  _UserSendOfferPageState - -> AuthProvider
+  _UserSendOfferPageState - -> NavigationService
+  NavigationService - -> UserHomePage
+  AuthProvider - -> User
+}
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
